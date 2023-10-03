@@ -1,0 +1,12 @@
+navbar.jsx -> check imports to change logo
+index.html  -> change href to change logo
+src/index.css  -> change gradient colours
+hero.jsx -> change colours
+computers.jsx -> download other models from sketchfab.com 
+about.jsx -> comment out Introduction and first line of grey header text
+tech.jsx -> map icon to balls
+ball.jsx -> for rendering 3-d tech stack icons, swiched to circle, also remove flatshading to remove texture
+Feddbacks.jsx -> Testimonials, I think looks stupid personally? how tf do we remove it? 
+contacts.jsx -> for the contact page
+stars.jsx -> Background for earth
+
