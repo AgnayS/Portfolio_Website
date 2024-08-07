@@ -1,7 +1,6 @@
 import React from "react";
-import Tilt from "react-tilt";
+import { Tilt } from "react-tilt";
 import { motion } from "framer-motion";
-
 import { styles } from "../styles";
 import { services } from "../constants";
 import { SectionWrapper } from "../hoc";
@@ -43,17 +42,28 @@ const About = () => {
         <h2 className={styles.sectionHeadText}>About Me</h2>
       </motion.div>
 
-      <motion.p
-        variants={fadeIn("", "", 0.1, 1)}
-        className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
-      >
-        I'm an upcoming software developer with a passion for contributing to open-source
-        projects and giving back to my college community.
-        I enjoy applying Computer Science to solve real-world problems and even more so to enable my laziness...
-        After all, why do something manually in 2 hours when you can automate it 20?
-      </motion.p>
+        <motion.p
+            variants={fadeIn("", "", 0.1, 1)}
+            className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
+        >
+            I'm a tech enthusiast and problem solver with a knack for turning caffeine into code. From wrangling
+            databases to taming operating systems, I've dipped my toes in various tech ponds. My superpower?
+            Transforming "it can't be done" into "it's already automated." <br/> <br/>
 
-      <div className='mt-20 flex flex-wrap gap-10'>
+            When I'm not busy building personal projects, you might find me deep in the realms of Machine Learning, Linux or Android ROMs,
+            spreading open-source love. I believe in the power of community, whether it's collaborating with developers
+            worldwide or helping fellow college students eat better. <br/> <br/>
+
+            Why do I do what I do? Well, partly because I'm passionate about technology, but mostly because I'm allergic
+            to others doing repetitive tasks. After all, why spend two hours doing something manually when you can spend 20 hours
+            automating it and feeling like a god? <br/> <br/>
+
+            So, whether you need well-designed, cross-platform apps deployed on AWS, or even someone to lift weights with, I'm your guy!  <br/> <br/>
+
+           Do get in touch for a coffee chat and let's automate the world, one commit at a time!
+        </motion.p>
+
+        <div className='mt-20 flex flex-wrap gap-10'>
         {services.map((service, index) => (
           <ServiceCard key={service.title} index={index} {...service} />
         ))}
