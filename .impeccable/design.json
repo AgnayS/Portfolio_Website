@@ -1,0 +1,350 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-07-25T01:12:41Z",
+  "title": "Design System: Agnay Srivastava",
+  "extensions": {
+    "colorMeta": {
+      "field-paper": {
+        "role": "neutral",
+        "displayName": "Field Paper",
+        "canonical": "oklch(97% 0.018 82)",
+        "tonalRamp": [
+          "oklch(15% 0.018 82)",
+          "oklch(27% 0.018 82)",
+          "oklch(39% 0.018 82)",
+          "oklch(51% 0.018 82)",
+          "oklch(63% 0.018 82)",
+          "oklch(75% 0.018 82)",
+          "oklch(87% 0.018 82)",
+          "oklch(95% 0.018 82)"
+        ]
+      },
+      "field-paper-deep": {
+        "role": "neutral",
+        "displayName": "Field Paper Deep",
+        "canonical": "oklch(92% 0.032 82)",
+        "tonalRamp": [
+          "oklch(15% 0.032 82)",
+          "oklch(27% 0.032 82)",
+          "oklch(39% 0.032 82)",
+          "oklch(51% 0.032 82)",
+          "oklch(63% 0.032 82)",
+          "oklch(75% 0.032 82)",
+          "oklch(87% 0.032 82)",
+          "oklch(95% 0.032 82)"
+        ]
+      },
+      "working-ink": {
+        "role": "primary",
+        "displayName": "Working Ink",
+        "canonical": "oklch(20% 0.035 255)",
+        "tonalRamp": [
+          "oklch(15% 0.035 255)",
+          "oklch(27% 0.035 255)",
+          "oklch(39% 0.035 255)",
+          "oklch(51% 0.035 255)",
+          "oklch(63% 0.035 255)",
+          "oklch(75% 0.035 255)",
+          "oklch(87% 0.035 255)",
+          "oklch(95% 0.035 255)"
+        ]
+      },
+      "pencil-muted": {
+        "role": "neutral",
+        "displayName": "Pencil Muted",
+        "canonical": "oklch(45% 0.04 255)",
+        "tonalRamp": [
+          "oklch(15% 0.04 255)",
+          "oklch(27% 0.04 255)",
+          "oklch(39% 0.04 255)",
+          "oklch(51% 0.04 255)",
+          "oklch(63% 0.04 255)",
+          "oklch(75% 0.04 255)",
+          "oklch(87% 0.04 255)",
+          "oklch(95% 0.04 255)"
+        ]
+      },
+      "rule-line": {
+        "role": "neutral",
+        "displayName": "Rule Line",
+        "canonical": "oklch(82% 0.03 82)",
+        "tonalRamp": [
+          "oklch(15% 0.03 82)",
+          "oklch(27% 0.03 82)",
+          "oklch(39% 0.03 82)",
+          "oklch(51% 0.03 82)",
+          "oklch(63% 0.03 82)",
+          "oklch(75% 0.03 82)",
+          "oklch(87% 0.03 82)",
+          "oklch(95% 0.03 82)"
+        ]
+      },
+      "signal-coral": {
+        "role": "secondary",
+        "displayName": "Signal Coral",
+        "canonical": "oklch(69% 0.205 36)",
+        "tonalRamp": [
+          "oklch(15% 0.205 36)",
+          "oklch(27% 0.205 36)",
+          "oklch(39% 0.205 36)",
+          "oklch(51% 0.205 36)",
+          "oklch(63% 0.205 36)",
+          "oklch(75% 0.205 36)",
+          "oklch(87% 0.205 36)",
+          "oklch(95% 0.205 36)"
+        ]
+      },
+      "signal-coral-dark": {
+        "role": "secondary",
+        "displayName": "Signal Coral Dark",
+        "canonical": "oklch(62% 0.21 34)",
+        "tonalRamp": [
+          "oklch(15% 0.21 34)",
+          "oklch(27% 0.21 34)",
+          "oklch(39% 0.21 34)",
+          "oklch(51% 0.21 34)",
+          "oklch(63% 0.21 34)",
+          "oklch(75% 0.21 34)",
+          "oklch(87% 0.21 34)",
+          "oklch(95% 0.21 34)"
+        ]
+      },
+      "system-blue": {
+        "role": "primary",
+        "displayName": "System Blue",
+        "canonical": "oklch(48% 0.18 258)",
+        "tonalRamp": [
+          "oklch(15% 0.18 258)",
+          "oklch(27% 0.18 258)",
+          "oklch(39% 0.18 258)",
+          "oklch(51% 0.18 258)",
+          "oklch(63% 0.18 258)",
+          "oklch(75% 0.18 258)",
+          "oklch(87% 0.18 258)",
+          "oklch(95% 0.18 258)"
+        ]
+      },
+      "system-blue-dark": {
+        "role": "primary",
+        "displayName": "System Blue Dark",
+        "canonical": "oklch(39% 0.15 258)",
+        "tonalRamp": [
+          "oklch(15% 0.15 258)",
+          "oklch(27% 0.15 258)",
+          "oklch(39% 0.15 258)",
+          "oklch(51% 0.15 258)",
+          "oklch(63% 0.15 258)",
+          "oklch(75% 0.15 258)",
+          "oklch(87% 0.15 258)",
+          "oklch(95% 0.15 258)"
+        ]
+      },
+      "marker-acid": {
+        "role": "tertiary",
+        "displayName": "Marker Acid",
+        "canonical": "oklch(86% 0.16 112)",
+        "tonalRamp": [
+          "oklch(15% 0.16 112)",
+          "oklch(27% 0.16 112)",
+          "oklch(39% 0.16 112)",
+          "oklch(51% 0.16 112)",
+          "oklch(63% 0.16 112)",
+          "oklch(75% 0.16 112)",
+          "oklch(87% 0.16 112)",
+          "oklch(95% 0.16 112)"
+        ]
+      },
+      "clean-white": {
+        "role": "neutral",
+        "displayName": "Clean White",
+        "canonical": "oklch(99% 0.006 82)",
+        "tonalRamp": [
+          "oklch(15% 0.006 82)",
+          "oklch(27% 0.006 82)",
+          "oklch(39% 0.006 82)",
+          "oklch(51% 0.006 82)",
+          "oklch(63% 0.006 82)",
+          "oklch(75% 0.006 82)",
+          "oklch(87% 0.006 82)",
+          "oklch(95% 0.006 82)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "Short home hero statements only."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Page heroes and major section claims."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Article and project titles."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "General interface and long-form copy."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Eyebrows, section kickers, and compact metadata."
+      }
+    },
+    "shadows": [
+      {
+        "name": "product-window",
+        "value": "12px 14px 0 var(--ink)",
+        "purpose": "Lift the featured Tsenta interface as a physical object."
+      },
+      {
+        "name": "portrait-card",
+        "value": "9px 10px 0 var(--ink)",
+        "purpose": "Lift the about-page portrait artifact."
+      },
+      {
+        "name": "memory-photo",
+        "value": "6px 7px 0 var(--ink)",
+        "purpose": "Layer smaller founder photos into the home portrait collage."
+      },
+      {
+        "name": "pinned-note",
+        "value": "4px 4px 0 var(--ink)",
+        "purpose": "Lift small annotations attached to the founder portrait."
+      }
+    ],
+    "motion": [
+      {
+        "name": "ease-out",
+        "value": "cubic-bezier(0.16, 1, 0.3, 1)",
+        "purpose": "Tactile hover translation and underline expansion."
+      },
+      {
+        "name": "state-fast",
+        "value": "180ms ease",
+        "purpose": "Color-only navigation and list feedback."
+      },
+      {
+        "name": "state-responsive",
+        "value": "220ms cubic-bezier(0.16, 1, 0.3, 1)",
+        "purpose": "Buttons, arrows, and compact spatial feedback."
+      },
+      {
+        "name": "headline-cycle",
+        "value": "16s cubic-bezier(0.16, 1, 0.3, 1)",
+        "purpose": "Rotate four home-page thesis statements with one phrase visible at a time."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "compact",
+        "value": "620px"
+      },
+      {
+        "name": "stack",
+        "value": "900px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "The decisive action on paper or coral surfaces.",
+      "html": "<button class=\"ds-button-primary\">See what I'm building <span aria-hidden=\"true\">↗</span></button>",
+      "css": ".ds-button-primary { display:inline-flex; min-height:3.25rem; align-items:center; justify-content:center; gap:.75rem; padding:.82rem 1.15rem; border:1px solid transparent; border-radius:.45rem; background:oklch(20% .035 255); color:oklch(99% .006 82); font:690 .92rem/1.2 Geologica,Arial,sans-serif; transition:transform 220ms cubic-bezier(.16,1,.3,1),background-color 220ms ease; } .ds-button-primary:hover { transform:translateY(-3px); background:oklch(48% .18 258); } .ds-button-primary:focus-visible { outline:3px solid oklch(69% .205 36); outline-offset:4px; }"
+    },
+    {
+      "name": "Light Button",
+      "kind": "button",
+      "refersTo": "button-light",
+      "description": "The high-contrast action on the System Blue product field.",
+      "html": "<button class=\"ds-button-light\">The Tsenta story</button>",
+      "css": ".ds-button-light { display:inline-flex; min-height:3.25rem; align-items:center; justify-content:center; padding:.82rem 1.15rem; border:1px solid transparent; border-radius:.45rem; background:oklch(99% .006 82); color:oklch(39% .15 258); font:690 .92rem/1.2 Geologica,Arial,sans-serif; transition:transform 220ms cubic-bezier(.16,1,.3,1),background-color 220ms ease; } .ds-button-light:hover { transform:translateY(-3px); background:oklch(86% .16 112); } .ds-button-light:focus-visible { outline:3px solid oklch(69% .205 36); outline-offset:4px; }"
+    },
+    {
+      "name": "Wordmark",
+      "kind": "nav",
+      "description": "The plain personal name used as the only wordmark in the site header.",
+      "html": "<a class=\"ds-wordmark\" href=\"#\">Agnay Srivastava</a>",
+      "css": ".ds-wordmark { display:inline-flex; align-items:center; color:oklch(20% .035 255); font:720 1rem/1.2 Geologica,Arial,sans-serif; letter-spacing:-.03em; text-decoration:none; } .ds-wordmark:focus-visible { outline:3px solid oklch(69% .205 36); outline-offset:4px; }"
+    },
+    {
+      "name": "Project Row",
+      "kind": "custom",
+      "description": "A full-width, evidence-first alternative to a repeated project card.",
+      "html": "<a class=\"ds-project\" href=\"#\"><small>01</small><span><strong>Tsenta</strong><em>YC S26</em></span><p>A transparent job-search agent that keeps people in control.</p><b>Now</b><i aria-hidden=\"true\">↗</i></a>",
+      "css": ".ds-project { display:grid; grid-template-columns:3rem minmax(8rem,.75fr) minmax(12rem,1.35fr) 4rem 2rem; gap:1.5rem; align-items:center; padding:1.8rem .75rem; border-top:1px solid oklch(20% .035 255); border-bottom:1px solid oklch(82% .03 82); color:oklch(20% .035 255); font-family:Geologica,Arial,sans-serif; text-decoration:none; transition:background-color 180ms ease,padding 220ms cubic-bezier(.16,1,.3,1); } .ds-project:hover { padding-inline:1.1rem; background:oklch(86% .16 112); } .ds-project small,.ds-project b,.ds-project em,.ds-project p { color:oklch(45% .04 255); } .ds-project span { display:flex; flex-direction:column; } .ds-project strong { font-size:1.4rem; } .ds-project em { font-size:.72rem; font-style:normal; } .ds-project p { margin:0; } .ds-project:focus-visible { outline:3px solid oklch(69% .205 36); outline-offset:4px; }"
+    },
+    {
+      "name": "Product Window",
+      "kind": "card",
+      "description": "A hard-framed browser artifact that lets the real product serve as proof.",
+      "html": "<figure class=\"ds-window\"><div><span></span><span></span><span></span><p>tsenta.com</p></div><section>Real product capture</section><figcaption>Transparent by design.</figcaption></figure>",
+      "css": ".ds-window { overflow:hidden; margin:0; border:2px solid oklch(20% .035 255); border-radius:1rem; background:oklch(97% .018 82); color:oklch(20% .035 255); box-shadow:12px 14px 0 oklch(20% .035 255); font-family:Geologica,Arial,sans-serif; } .ds-window > div { min-height:2.75rem; display:flex; align-items:center; gap:.45rem; padding-inline:.9rem; border-bottom:2px solid oklch(20% .035 255); background:oklch(86% .16 112); } .ds-window > div span { width:.62rem; aspect-ratio:1; border:1.5px solid oklch(20% .035 255); border-radius:50%; background:oklch(69% .205 36); } .ds-window > div p { margin:0 auto; font-size:.72rem; font-weight:670; } .ds-window section { display:grid; min-height:9rem; place-items:center; background:oklch(99% .006 82); color:oklch(45% .04 255); } .ds-window figcaption { padding:1rem 1.25rem; border-top:1px solid oklch(82% .03 82); color:oklch(45% .04 255); font-size:.83rem; }"
+    },
+    {
+      "name": "Pinned Note",
+      "kind": "chip",
+      "description": "A small physical annotation for rare founder and status details.",
+      "html": "<span class=\"ds-note\">YC S26</span>",
+      "css": ".ds-note { display:inline-block; padding:.48rem .72rem; border:2px solid oklch(20% .035 255); background:oklch(86% .16 112); color:oklch(20% .035 255); box-shadow:4px 4px 0 oklch(20% .035 255); font:720 .76rem/1.2 Geologica,Arial,sans-serif; letter-spacing:.03em; transform:rotate(4deg); }"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Builder's Field Desk",
+    "overview": "This site should feel like the working surface of a founder who ships: bright daylight, marked-up notes, a live product window, and decisions left visible. It is candid, restless, and precise. The large type carries conviction while compact supporting copy keeps the pace fast.\n\nColor blocks and hard-edged artifacts create the energy. The system explicitly rejects the old cosmic 3D portfolio, generic AI founder aesthetics, default shadcn dashboards, resume dumps, and editorial-magazine affectations. Motion is responsive feedback, never spectacle.",
+    "keyCharacteristics": [
+      "Oversized, tightly set statements with short reading paths.",
+      "Warm paper neutrals interrupted by decisive coral, blue, and acid fields.",
+      "Flat surfaces with hard offset shadows only where an object should feel handled.",
+      "Semantic, server-rendered content that stays useful without client-side JavaScript.",
+      "Wide layouts that collapse into one clear mobile reading column."
+    ],
+    "rules": [
+      {
+        "name": "The Printed Signal Rule",
+        "body": "Coral, blue, and acid must appear as clear fields or marks. Never soften them into gradients or translucent glows.",
+        "section": "colors"
+      },
+      {
+        "name": "The Ink First Rule",
+        "body": "Working Ink carries the interface. Accent colors clarify hierarchy; they never compete equally on every surface.",
+        "section": "colors"
+      },
+      {
+        "name": "The One Voice Rule",
+        "body": "Do not introduce a second font for novelty. Contrast comes from scale, weight, color, and spacing.",
+        "section": "typography"
+      },
+      {
+        "name": "The Short Shout Rule",
+        "body": "Display type must stay concise. If a headline needs more than roughly twelve words, move the explanation into body copy.",
+        "section": "typography"
+      },
+      {
+        "name": "The Physical Object Rule",
+        "body": "Shadows are solid ink offsets with no blur. If an element is not meant to feel like a printed card, photograph, or browser window, it stays flat.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "Do lead with Tsenta and the work happening now.",
+      "Do use large Geologica headlines with aggressive tracking only for short, high-confidence statements.",
+      "Do use Signal Coral, System Blue, and Marker Acid as solid, intentional fields.",
+      "Do preserve semantic HTML, visible keyboard focus, AA contrast, useful alternative text, and reduced-motion behavior.",
+      "Do keep blog layouts quiet, narrow, and readable while reusing the same type and color tokens.",
+      "Do use real product captures and verified public facts as evidence."
+    ],
+    "donts": [
+      "Don't recreate the old cosmic 3D portfolio, technology icon clouds, animated skill cards, or tutorial-template visuals.",
+      "Don't use generic AI founder styling: black backgrounds, purple gradients, glass panels, glowing orbs, or vague claims about changing the world.",
+      "Don't turn the site into a default shadcn dashboard disguised as a portfolio.",
+      "Don't add resume dumps, fake testimonials, vanity metrics, or unverified impact claims.",
+      "Don't use editorial-magazine affectations that make a builder look like a fashion publication.",
+      "Don't add blurred ambient shadows, gradient text, hidden mobile navigation, or animation that delays reading."
+    ]
+  }
+}
